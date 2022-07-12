@@ -1,1 +1,2 @@
-# Demo-Education-Website
+# Educational-Website
+A responsive front end website
